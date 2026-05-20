@@ -20,7 +20,7 @@ from aiogram.types import (
 # ──────────────────────────────────────────────
 # Настройки
 # ──────────────────────────────────────────────
-BOT_TOKEN         = os.getenv("BOT_TOKEN", "8636489331:AAHMz-VvBtsh2rOQ5lQq7JrjEJ5B__XXOO4")
+BOT_TOKEN         = os.getenv("BOT_TOKEN", "8636489331:AAFW2z9lDfgYatfEguAWD_gDmecrLtiSWJ0")
 ADMIN_CHAT_ID     = 1375530733
 MANAGER_USERNAME  = "@DetailingHouseEkb"
 MANAGER_PHONE_EKB = "+7 (993) 773-57-71"
